@@ -26,7 +26,7 @@ jobs:
             # ==========================================
             REPO_URL="https://github.com/Ohgiraffers-bear/KU_RAG_CHATBOT2.git"
             DIR_NAME="KU_RAG_CHATBOT2"
-            FILE_NAME="Project.py"
+            FILE_NAME="Project.py" # <--- [중요] 여기에 실행시킬 파일명을 작성하세요!
             PORT="8501"
             CONDA_ENV="bear"  # <--- [중요] 여기에 생성해둔 가상환경 이름을 넣으세요!
             # ==========================================
